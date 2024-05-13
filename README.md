@@ -81,6 +81,10 @@ In [Part 2](https://github.com/Kelsow96/Observing-Network-Traffic-Between-the-Tw
 
 - We should now see both of our VM's and the resources they created within our WireShark_Lab Resource group
   ![Capture](https://github.com/Kelsow96/Creating-VM-s-in-Azure-Windows-10-and-Linux-/assets/169297569/ffd63280-8f91-494b-9885-11dde5b53af3)
+  <br />
+  <br />
+
+- Now that we have our VM's created we can move onto [Part 2](https://github.com/Kelsow96/Observing-Network-Traffic-Between-the-Two-VMs-Using-Wireshark) of this project where we'll be using WireShark to observe some simple Networking traffic between the two VM's.
 
 
 

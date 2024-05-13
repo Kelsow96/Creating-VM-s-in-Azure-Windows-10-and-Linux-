@@ -35,7 +35,7 @@ In [Part 2](https://github.com/Kelsow96/Observing-Network-Traffic-Between-the-Tw
   <br />
   <br />
   
-- We'll change the computing power size, create a Username and Password and confrim the licensing agreement at the bottom.
+- We'll change the computing power size, create a Username and Password and confirm the licensing agreement at the bottom.
   - We'll use Jane as the Username and Password1234 as the Password to keep it simple.
   - Username: Jane , Password: Password1234
   ![Capture](https://github.com/Kelsow96/Creating-VM-s-in-Azure-Windows-10-and-Linux-/assets/169297569/ec591353-34f6-4cdc-84e8-22e53544799f)
@@ -48,11 +48,11 @@ In [Part 2](https://github.com/Kelsow96/Observing-Network-Traffic-Between-the-Tw
   <br />
 
 - Next we'll create our second VM: Linux (Ubuntu)
-  - We'll use the same steps as before when creating our first VM but just changing a few things.
+  - We'll use the same steps as before when creating our first VM but changing a few things.
   <br />
   <br />
 
-- It will be held in the resource group we just made (WireShark_Lab), we'll call it Linux-VM and we'll select the Ubuntu Sever Image
+- It will be held in the resource group we just made (WireShark_Lab), we'll call it Linux-VM and we'll select the Ubuntu Server Image
  ![Capture](https://github.com/Kelsow96/Creating-VM-s-in-Azure-Windows-10-and-Linux-/assets/169297569/e000d19b-6794-4e32-aa66-4081e4e56669)
   <br />
   <br />
@@ -69,7 +69,7 @@ In [Part 2](https://github.com/Kelsow96/Observing-Network-Traffic-Between-the-Tw
   <br />
   <br />
 
-- Once in Networking we'll confrim that our Virtual network is within Windows10-VM-Net and that our Subnet is within the defualt.
+- Once in Networking we'll confirm that our Virtual network is within Windows10-VM-Net and that our Subnet is within the defualt.
   ![Capture](https://github.com/Kelsow96/Creating-VM-s-in-Azure-Windows-10-and-Linux-/assets/169297569/0054e4c9-62e6-4726-9640-60224026df17)
   <br />
   <br />

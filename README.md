@@ -16,7 +16,13 @@ In [Part 2](https://github.com/Kelsow96/Observing-Network-Traffic-Between-the-Tw
 
 <h2> List of Prerequisites: </h2>
 
--  Azure Account/Subscription 
+-  Azure Account/Subscription
+
+<h2> High-Level Steps: </h2>
+
+ 1. Creating a Resource Group within Azure to hold our VMs in
+ 2. Creating our Windows 10 VM with the correct configurations within our made Resource Group
+ 3. Creating our Linux(Ubuntu) VM with the correct configurations within our made Resource Group
 
 <h2> Steps: </h2>
 

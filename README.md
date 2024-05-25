@@ -2,8 +2,11 @@
 
 <h1> Creating VM's in Azure: Windows 10 and Linux (Ubuntu) </h1>
 
-In this tutorial, we'll be creating two VMs in Microsoft Azure: Windows 10 and Linux. 
-In [Part 2](https://github.com/Kelsow96/Network-Security-Groups-NSGs-and-Observing-Network-Traffic) of this project, we'll be working with Network Security Groups (NSGs) and using WireShark to observe network traffic between our two VMs.
+<h2> What is a Virtual Machine (VM)? </h2>
+A Virtual Machine (VM) is a software-based emulation of a physical computer that runs an operating system and applications like a real computer. It is hosted on a physical machine, which can support multiple VMs simultaneously. Each VM operates independently, with its own virtual hardware components such as CPU, memory, storage, and network interfaces. VMs are commonly used in cloud computing, software development, testing, and server consolidation because they allow for flexible, efficient, and isolated computing environments.
+<h2> Overview </h2>
+In this tutorial, we'll create two Virtual Machines (VMs) in Microsoft Azure: Windows 10 and Linux. 
+In [Part 2](https://github.com/Kelsow96/Network-Security-Groups-NSGs-and-Observing-Network-Traffic) of this project, we'll work with Network Security Groups (NSGs) and use WireShark to observe network traffic between our two VMs.
 
 <h2> Environments and Technologies Used: </h2>
 
